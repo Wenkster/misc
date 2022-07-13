@@ -1,0 +1,18 @@
+body {
+    background-color:#05c46b;
+    font-family: cursive;
+    text-align: center;
+}
+
+form{
+    text-align: left;
+    display: inline-block;
+}
+footer{
+    font-size: 12px;
+    text-align: center;
+    padding-top: 90%;
+}
+.pic {
+    width: 250px;
+}
